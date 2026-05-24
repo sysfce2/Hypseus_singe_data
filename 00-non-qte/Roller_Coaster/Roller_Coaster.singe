@@ -24,7 +24,7 @@
 
 BASEDIR = "singe"                        -- This should be 'singe'
 
-GAME = BASEDIR .."/".. "Rollercoaster"  -- This is the directory where your game is 
+GAME = BASEDIR .."/".. "Roller_Coaster"  -- This is the directory where your game is 
 
 MovieFPS = 29.97    -- Number of frames per second of your movies (used for timed actions).
 
