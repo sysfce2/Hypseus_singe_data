@@ -524,7 +524,7 @@ function initJob()
 
 	readConfig()
 	resetChannels()
-	fontQuality(FONT_QUALITY_BLENDED)
+	fontQuality(FONT_QUALITY_SOLID)
 	fontSelect(fontDebug8pt)  
 	colorForeground(0,255,0)		
 	gameflow = flow_GameRunning

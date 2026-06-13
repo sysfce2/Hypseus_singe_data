@@ -1912,7 +1912,7 @@ function initJob()
 	LINEH = OVLH/45
 	LINEW = OVLW/40
 
-	fontQuality(FONT_QUALITY_BLENDED)
+	fontQuality(FONT_QUALITY_SOLID)
 	fontSelect(fontGame)  
 	
 	LIVW = spriteGetWidth(sprite[LIVES])
