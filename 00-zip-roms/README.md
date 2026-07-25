@@ -1,6 +1,6 @@
 # Hypseus Singe
 
-## Zipped LUA ROMS (Require v2.11.2)
+## Zipped LUA ROMS (Require _v2.11.2_)
 
 These `.zip` files can be used to replace existing Singe folder structures.
 
