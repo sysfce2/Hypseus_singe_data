@@ -23,7 +23,7 @@ Paste the relevant repo _folder_ URL into the tool, it will allow you to downloa
 
 ***
 
-### Zipped ROMs
+## Zipped ROMs
 
 **Note**: You do not need to unzip the ROM for usage in `hypseus` from version 2.11.2.  
 A zipped ROM can be loaded, without decompressing, direct to the Singe `-script` or new `-zlua` argument.
