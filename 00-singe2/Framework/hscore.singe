@@ -1619,7 +1619,7 @@ function updatePercent(thisName, thisPercent)
 
 	elseif dip_Difficulty == 3 then
 
-		percent[iLevel][3] = "H"
+		percent[iLevel][3] = "X"
 
 	end
 
