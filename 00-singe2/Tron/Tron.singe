@@ -122,7 +122,7 @@ offsetIntro03end = 9733							-- End frame of the Attract video #2.
 
 -- Menu frames --
 
-offsetMenus = 76126								-- Menu video start frame (continue, high score, game over, etc).														
+offsetMenus = 76125								-- Menu video start frame (continue, high score, game over, etc).
 												-- Now we set the frames for the menu video.
 frameOptions = offsetMenus +4					-- Frame for the background picture of the Service Menu.
 frameVictory = offsetMenus +7					-- Frame for the picture shown when the game is completed.
